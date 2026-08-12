@@ -2,7 +2,7 @@
 
 <h1 align="center">TIKAZ Frontend Design for Codex</h1>
 <p align="center"><strong>Art-directed frontend workflows that prove the visual direction before scaling implementation.</strong></p>
-<p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Frontend-Design/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Frontend-Design/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.2.0-8B5CF6.svg" alt="0.2.0" /></p>
+<p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Frontend-Design/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Frontend-Design/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.3.0-8B5CF6.svg" alt="0.3.0" /></p>
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-AI-Skills">← Explore all six TIKAZ AI Skills for Codex suites</a></p>
 
 ---
