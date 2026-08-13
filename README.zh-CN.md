@@ -9,14 +9,7 @@
 由 **TIKAZ** 主导设计、整合、独立重构和持续维护。本项目面向兼容 Codex Skill 的宿主，并非 OpenAI 官方项目。
 
 
-<table data-proof-strip="true" width="100%">
-<tr>
-<td data-proof-cell="true" align="center" width="200" title="营销、产品、编辑与高密度工具界面"><h3>4</h3><sub>产品界面模式</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="完整扩展前先验证桌面端与移动端方向"><h3>2</h3><sub>代表性视口证明</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="同一工作流负责方向、实现与交付"><h3>1</h3><sub>设计到代码单一责任人</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="响应式、溢出、对比度与减少动态效果检查"><h3>4</h3><sub>真实渲染 QA 检查</sub></td>
-</tr>
-</table>
+<p align="center"><img src="assets/proof-strip.zh-CN.svg" alt="四项经过核对的核心优势" width="100%" /></p>
 
 ## ✨ 为什么不同
 

@@ -1,0 +1,9 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="proof-title">
+<title id="proof-title">4: 营销、产品、编辑与高密度工具界面. 2: 完整扩展前先验证桌面端与移动端方向. 1: 同一工作流负责方向、实现与交付. 4: 响应式、溢出、对比度与减少动态效果检查</title>
+<style>
+.value { fill: #8B5CF6; font: 750 46px "Segoe UI", Arial, sans-serif; }
+.label { color: #334155; font: 600 20px/1.35 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
+@media (prefers-color-scheme: dark) { .label { color: #CBD5E1; } }
+</style>
+<g class="proof" aria-label="营销、产品、编辑与高密度工具界面"><text class="value" x="150" y="70" text-anchor="middle">4</text><foreignObject x="15" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">产品界面模式</div></foreignObject></g><g class="proof" aria-label="完整扩展前先验证桌面端与移动端方向"><text class="value" x="450" y="70" text-anchor="middle">2</text><foreignObject x="315" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">代表性视口证明</div></foreignObject></g><g class="proof" aria-label="同一工作流负责方向、实现与交付"><text class="value" x="750" y="70" text-anchor="middle">1</text><foreignObject x="615" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">设计到代码单一责任人</div></foreignObject></g><g class="proof" aria-label="响应式、溢出、对比度与减少动态效果检查"><text class="value" x="1050" y="70" text-anchor="middle">4</text><foreignObject x="915" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">真实渲染 QA 检查</div></foreignObject></g>
+</svg>

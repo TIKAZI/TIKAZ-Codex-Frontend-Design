@@ -1,0 +1,9 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="proof-title">
+<title id="proof-title">4: Marketing, product, editorial, and dense utility surfaces. 2: Desktop and mobile direction before full expansion. 1: One workflow owns direction, implementation, and handoff. 4: Responsive, overflow, contrast, and reduced-motion checks</title>
+<style>
+.value { fill: #8B5CF6; font: 750 46px "Segoe UI", Arial, sans-serif; }
+.label { color: #334155; font: 600 20px/1.35 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
+@media (prefers-color-scheme: dark) { .label { color: #CBD5E1; } }
+</style>
+<g class="proof" aria-label="Marketing, product, editorial, and dense utility surfaces"><text class="value" x="150" y="70" text-anchor="middle">4</text><foreignObject x="15" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Product-surface modes</div></foreignObject></g><g class="proof" aria-label="Desktop and mobile direction before full expansion"><text class="value" x="450" y="70" text-anchor="middle">2</text><foreignObject x="315" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Viewport proofs</div></foreignObject></g><g class="proof" aria-label="One workflow owns direction, implementation, and handoff"><text class="value" x="750" y="70" text-anchor="middle">1</text><foreignObject x="615" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Design-to-code owner</div></foreignObject></g><g class="proof" aria-label="Responsive, overflow, contrast, and reduced-motion checks"><text class="value" x="1050" y="70" text-anchor="middle">4</text><foreignObject x="915" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Rendered QA checks</div></foreignObject></g>
+</svg>
