@@ -31,6 +31,13 @@ Clone or download this repository, then copy the repository folder into the Skil
 git clone https://github.com/TIKAZI/TIKAZ-Codex-Frontend-Design.git
 ```
 
+## 🧩 Use one Skill independently
+
+Every Skill below has its own promise, installation command, example, execution contract, limits, and bilingual project page:
+
+- [`frontend-design-studio`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/frontend-design-studio/index.html)
+- [`frontend-design`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/frontend-design/index.html)
+
 ## 🚀 Try it
 
 ```text
