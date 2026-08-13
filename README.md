@@ -9,10 +9,10 @@
 
 <table data-proof-strip="true" width="100%">
 <tr>
-<td data-proof-cell="true" align="center" width="25%" title="Marketing, product, editorial, and dense utility surfaces"><h3>4</h3><sub>Product-surface modes</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Desktop and mobile direction before full expansion"><h3>2</h3><sub>Viewport proofs</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="One workflow owns direction, implementation, and handoff"><h3>1</h3><sub>Design-to-code owner</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Responsive, overflow, contrast, and reduced-motion checks"><h3>4</h3><sub>Rendered QA checks</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Marketing, product, editorial, and dense utility surfaces"><h3>4</h3><sub>Product-surface modes</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Desktop and mobile direction before full expansion"><h3>2</h3><sub>Viewport proofs</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="One workflow owns direction, implementation, and handoff"><h3>1</h3><sub>Design-to-code owner</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Responsive, overflow, contrast, and reduced-motion checks"><h3>4</h3><sub>Rendered QA checks</sub></td>
 </tr>
 </table>
 
